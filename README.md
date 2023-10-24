@@ -17,5 +17,9 @@ perintah *print ini berfungsi untuk mencetak suatu kata maupun perintah pada Pyt
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%202.png?raw=true)
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/ss%202.png?raw=true)
 
-* a = 69 * dab * b = 321 * merupakan sebuah variabel dan intenger. * a + b * merupakan perintah pada python untuk menjumlahkan variabel yang tertera.
+*a = 69* dan *b = 321* merupakan sebuah variabel dan intenger. *a + b* merupakan perintah pada python untuk menjumlahkan variabel yang tertera.
 
+* Latihan 3 :
+> *int* bersifat opsional, gunakan jika kode ingin lebih tertruktur.
+
+![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%203.png?raw=true)
