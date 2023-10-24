@@ -7,4 +7,5 @@ Tugas praktikum pertemuan 5 : Bahasa Pemrograman
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%201.png?raw=true)
 
 print("Hello!")
-print("Saya sedang belajar Python.")
+print("Saya sedang belajar python")
+
