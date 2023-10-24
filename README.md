@@ -27,8 +27,8 @@ __*a = 69*__ dan __*b = 321*__ merupakan sebuah variabel dan intenger. *a + b* m
 
 * Latihan 3 :
 > __*int*__ bersifat opsional, gunakan jika kode ingin lebih tertruktur.
-  1.  buatlah file baru dengan nama __Latihan3.py__ (pastikan lokasi file pada folder __Lab2py__ pada direktori kerja anda)
-  2.  gunakan fungsi __input__ untuk untuk mengambil nilai variabel dari keyboard.
+   1.  buatlah file baru dengan nama __Latihan3.py__ (pastikan lokasi file pada folder __Lab2py__ pada direktori kerja anda)
+   2. gunakan fungsi __input__ untuk untuk mengambil nilai variabel dari keyboard.
 
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%203.png?raw=true)
 
