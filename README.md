@@ -15,10 +15,10 @@ perintah __*print*__ ini berfungsi untuk mencetak suatu kata maupun perintah pad
   
 > a + b bisa saja ditulis menjadi a+b tapi penggunaan python mempunyai standar keteraturan
    * Menjumlahkan dua bilangan menggunakan variabel a dan b
-    1.  mendefinisikan variabel a dengan nilai 69
-    2.  mendefinisikan variabel b dengan nilai 321
-    3.  mencetak nilai variabel a dan b
-    4.  mencetak hasil penjumlahan a dan b
+   1. mendefinisikan variabel a dengan nilai 69
+   2. mendefinisikan variabel b dengan nilai 321
+   3. mencetak nilai variabel a dan b
+   4. mencetak hasil penjumlahan a dan b
            
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%202.png?raw=true)
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/ss%202.png?raw=true)
