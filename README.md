@@ -6,8 +6,6 @@ Tugas praktikum pertemuan 5 : Bahasa Pemrograman
 
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%201.png?raw=true)
 
-print("Hello!")
-print("Saya sedang belajar python")
 perintah *print ini berfungsi untuk mencetak suatu kata maupun perintah pada Python.
 
 * Latihan 2 :
@@ -17,12 +15,5 @@ perintah *print ini berfungsi untuk mencetak suatu kata maupun perintah pada Pyt
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%202.png?raw=true)
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/ss%202.png?raw=true)
 
-# variabel
-a = 69
-b = 321
 
-# cetak dan hitung variabel
-print("Nilai pertama:", a)
-print("Nilai kedua:", b)
-print("Hasil dari kedua nilai:", a + b)
 
