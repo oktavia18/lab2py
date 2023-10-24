@@ -10,7 +10,7 @@ perintah *print ini berfungsi untuk mencetak suatu kata maupun perintah pada Pyt
 
 * Latihan 2 :
   
-> perintah *print ini berfungsi untuk mencetak suatu kata maupun perintah pada Python
+> a + b bisa saja ditulis menjadi a+b tapi penggunaan python mempunyai standar keteraturan
 
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%202.png?raw=true)
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/ss%202.png?raw=true)
