@@ -17,5 +17,11 @@ perintah *print ini berfungsi untuk mencetak suatu kata maupun perintah pada Pyt
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/Screenshot%202.png?raw=true)
 ![alt text](https://github.com/oktavia18/lab2py/blob/main/ss/ss%202.png?raw=true)
 
-
+# variabel
+a = 69
+b = 321
+print("Intenger pertama =", a)
+print("Intenger kedua =", b)
+print("hasil dari kedua intenger =", a + b)
+print("Hasil penjumlahan a + b=",a+b)
 
